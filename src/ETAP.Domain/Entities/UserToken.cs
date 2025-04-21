@@ -1,11 +1,14 @@
 using Ardalis.GuardClauses;
 using ETAP.Domain.Abstractions;
+using ETAP.Domain.Entities.Identity;
 
 namespace ETAP.Domain.Entities
 {
     public sealed class UserToken : BaseEntity
     {
         public Guid UserId { get; private set; }
+        public AppUser User { get; private set; } = null!;
+
         public string RefreshToken { get; private set; } = string.Empty;
         public DateTime ExpiresAt { get; private set; }
         public bool IsRevoked { get; private set; }
