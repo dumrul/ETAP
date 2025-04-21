@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "Ardalis.GuardClauses/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Ardalis.GuardClauses.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Ardalis.GuardClauses.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Ardalis.SmartEnum/8.2.0": {
         "type": "package",
         "compile": {
@@ -376,6 +389,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "Ardalis.GuardClauses": "5.0.0",
           "Ardalis.SmartEnum": "8.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0"
         },
@@ -391,7 +405,6 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "ETAP.Domain": "1.0.0",
-          "ETAP.Persistence": "1.0.0",
           "ETAP.Shared": "1.0.0"
         },
         "compile": {
@@ -399,20 +412,6 @@
         },
         "runtime": {
           "bin/placeholder/ETAP.Infrastructure.dll": {}
-        }
-      },
-      "ETAP.Persistence/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "dependencies": {
-          "ETAP.Domain": "1.0.0",
-          "ETAP.Shared": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ETAP.Persistence.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ETAP.Persistence.dll": {}
         }
       },
       "ETAP.Shared/1.0.0": {
@@ -428,6 +427,29 @@
     }
   },
   "libraries": {
+    "Ardalis.GuardClauses/5.0.0": {
+      "sha512": "jVPRvLw0xIUFto2cMrKgRYADWIHbEEfzZHGiU/swwNgl1zo28Q1zfSa3VUC3C0s9DyhFDPSaF4dEDQRyTZUcyQ==",
+      "type": "package",
+      "path": "ardalis.guardclauses/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "ardalis.guardclauses.5.0.0.nupkg.sha512",
+        "ardalis.guardclauses.nuspec",
+        "icon.png",
+        "lib/net8.0/Ardalis.GuardClauses.dll",
+        "lib/net8.0/Ardalis.GuardClauses.pdb",
+        "lib/net8.0/Ardalis.GuardClauses.xml",
+        "lib/netstandard2.0/Ardalis.GuardClauses.dll",
+        "lib/netstandard2.0/Ardalis.GuardClauses.pdb",
+        "lib/netstandard2.0/Ardalis.GuardClauses.xml",
+        "lib/netstandard2.1/Ardalis.GuardClauses.dll",
+        "lib/netstandard2.1/Ardalis.GuardClauses.pdb",
+        "lib/netstandard2.1/Ardalis.GuardClauses.xml"
+      ]
+    },
     "Ardalis.SmartEnum/8.2.0": {
       "sha512": "P1CLI2okpzHjOJnZMYLnzcyu1/fUJEYK1X4JSnal2TPmovrUTtXK6Sn78D2JgKUdwjSeWddnRveMj+BEZoksvg==",
       "type": "package",
@@ -963,11 +985,6 @@
       "type": "project",
       "path": "../ETAP.Infrastructure/ETAP.Infrastructure.csproj",
       "msbuildProject": "../ETAP.Infrastructure/ETAP.Infrastructure.csproj"
-    },
-    "ETAP.Persistence/1.0.0": {
-      "type": "project",
-      "path": "../ETAP.Persistence/ETAP.Persistence.csproj",
-      "msbuildProject": "../ETAP.Persistence/ETAP.Persistence.csproj"
     },
     "ETAP.Shared/1.0.0": {
       "type": "project",
