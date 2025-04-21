@@ -7,5 +7,6 @@ namespace ETAP.Domain.Entities.Identity
         public AppRole(string roleName) : base(roleName)
         {
         }
+        public string? Description { get; set; }
     }
 }

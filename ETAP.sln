@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETAP.Domain", "src\ETAP.Dom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETAP.Infrastructure", "src\ETAP.Infrastructure\ETAP.Infrastructure.csproj", "{9F87F280-ED4B-425C-A48A-D954DED6C7D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETAP.Persistence", "src\ETAP.Persistence\ETAP.Persistence.csproj", "{5E485099-5DB9-4229-9431-8E695D3BC6D0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETAP.Shared", "src\ETAP.Shared\ETAP.Shared.csproj", "{EF291154-D2D2-44F3-9F18-A4ABA897C1A6}"
 EndProject
 Global

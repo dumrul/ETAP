@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETAP.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e550b284c2e2a8b2b0931a1a107a5b61343de02")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETAP.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETAP.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

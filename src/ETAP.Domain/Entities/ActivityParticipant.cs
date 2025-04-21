@@ -1,3 +1,5 @@
+using ETAP.Domain.Entities.Identity;
+
 namespace ETAP.Domain.Entities
 {
     public sealed class ActivityParticipant

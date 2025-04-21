@@ -1,4 +1,5 @@
 using ETAP.Domain.Abstractions;
+using ETAP.Domain.Entities.Identity;
 
 namespace ETAP.Domain.Entities
 {
