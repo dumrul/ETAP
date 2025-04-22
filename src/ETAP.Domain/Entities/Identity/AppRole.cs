@@ -11,6 +11,11 @@ namespace ETAP.Domain.Entities.Identity
 
         public string? Description { get; set; }
 
+        // EF Core için parametresiz ctor
+        public AppRole() : base()
+        {
+        }
+
         public AppRole(string roleName, string? description = null) : base(
             Guard.Against.NullOrWhiteSpace(roleName, nameof(roleName)))
         {

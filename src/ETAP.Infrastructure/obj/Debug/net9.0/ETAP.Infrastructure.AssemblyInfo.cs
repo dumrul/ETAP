@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETAP.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d33fa829d9342de36872cab42e3aad9cb1181054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3d02b3d8b68bfc23b7c05611194a4702caaa5f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETAP.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETAP.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

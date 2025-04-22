@@ -1,0 +1,13 @@
+D:\ETAP\ETAP\src\ETAP.Domain\bin\Debug\net9.0\ETAP.Domain.deps.json
+D:\ETAP\ETAP\src\ETAP.Domain\bin\Debug\net9.0\ETAP.Domain.dll
+D:\ETAP\ETAP\src\ETAP.Domain\bin\Debug\net9.0\ETAP.Domain.pdb
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.csproj.AssemblyReference.cache
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.AssemblyInfoInputs.cache
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.AssemblyInfo.cs
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.csproj.CoreCompileInputs.cache
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.sourcelink.json
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.dll
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\refint\ETAP.Domain.dll
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ETAP.Domain.pdb
+D:\ETAP\ETAP\src\ETAP.Domain\obj\Debug\net9.0\ref\ETAP.Domain.dll

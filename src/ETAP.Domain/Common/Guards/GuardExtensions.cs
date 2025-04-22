@@ -16,3 +16,4 @@ namespace ETAP.Domain.Common.Guards
             return input;
         }
     }
+}

@@ -1,16 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using ETAP.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace ETAP.Infrastructure.Persistence.Configurations
 {
-public class UserTokenConfiguration : IEntityTypeConfiguration<UserToken>
+public class UserTokenConfiguration : IEntityTypeConfiguration<AppUserToken>
 {
-    public void Configure(EntityTypeBuilder<UserToken> builder)
+    public void Configure(EntityTypeBuilder<AppUserToken> builder)
     {
         builder.ToTable("UserTokens");
 

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aBFHI+36M1RcQyfitFcqxcngicxqJo7ZueDsEq+5f68=",
+  "Source": "ETAP.API",
+  "BasePath": "_content/ETAP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

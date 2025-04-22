@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETAP.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a5953e9bd11bd48d8566f4a5e835f5dabb7dd52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3d02b3d8b68bfc23b7c05611194a4702caaa5f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETAP.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETAP.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

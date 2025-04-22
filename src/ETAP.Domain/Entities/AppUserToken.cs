@@ -4,7 +4,7 @@ using ETAP.Domain.Entities.Identity;
 
 namespace ETAP.Domain.Entities
 {
-    public sealed class UserToken : BaseEntity
+    public sealed class AppUserToken : BaseEntity
     {
         public Guid UserId { get; private set; }
         public AppUser User { get; private set; } = null!;
@@ -13,9 +13,9 @@ namespace ETAP.Domain.Entities
         public DateTime ExpiresAt { get; private set; }
         public bool IsRevoked { get; private set; }
 
-        private UserToken() { }
+        private AppUserToken() { }
 
-        public UserToken(Guid userId, string refreshToken, DateTime expiresAt)
+        public AppUserToken(Guid userId, string refreshToken, DateTime expiresAt)
         {
             UserId = Guard.Against.Default(userId, nameof(userId));
             RefreshToken = Guard.Against.NullOrWhiteSpace(refreshToken, nameof(refreshToken));

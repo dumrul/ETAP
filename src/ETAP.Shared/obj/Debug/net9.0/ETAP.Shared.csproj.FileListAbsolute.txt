@@ -1,0 +1,12 @@
+D:\ETAP\ETAP\src\ETAP.Shared\bin\Debug\net9.0\ETAP.Shared.deps.json
+D:\ETAP\ETAP\src\ETAP.Shared\bin\Debug\net9.0\ETAP.Shared.dll
+D:\ETAP\ETAP\src\ETAP.Shared\bin\Debug\net9.0\ETAP.Shared.pdb
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ETAP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ETAP.Shared.AssemblyInfoInputs.cache
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ETAP.Shared.AssemblyInfo.cs
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ETAP.Shared.csproj.CoreCompileInputs.cache
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ETAP.Shared.sourcelink.json
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ETAP.Shared.dll
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\refint\ETAP.Shared.dll
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ETAP.Shared.pdb
+D:\ETAP\ETAP\src\ETAP.Shared\obj\Debug\net9.0\ref\ETAP.Shared.dll
